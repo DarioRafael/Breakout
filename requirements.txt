@@ -1,0 +1,8 @@
+# Breakout — Neon Edition
+# Install with:  python -m pip install -r requirements.txt
+#
+# pygame-ce is the actively-maintained Community Edition of pygame.
+# It imports as `pygame`, so the code is identical to upstream pygame.
+# It ships wheels for modern Python versions (incl. 3.13/3.14).
+pygame-ce>=2.5.0
+numpy>=1.24
